@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+      <class name="testNG.TestNG_allAnnotation">
+        <test-method status="PASS" signature="Test1BSuite()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="Test1BSuite" is-config="true" duration-ms="20" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1BSuite -->
+        <test-method status="PASS" signature="Test3BTest()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="Test3BTest" is-config="true" duration-ms="0" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3BTest -->
+        <test-method status="PASS" signature="Test2BClass()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="Test2BClass" is-config="true" duration-ms="0" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2BClass -->
+        <test-method status="PASS" signature="Test3BMethod()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="Test3BMethod" is-config="true" duration-ms="0" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3BMethod -->
+        <test-method status="PASS" signature="RealTest1()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="RealTest1" duration-ms="20" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RealTest1 -->
+        <test-method status="PASS" signature="Test6AMethod()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="Test6AMethod" is-config="true" duration-ms="6" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6AMethod -->
+        <test-method status="PASS" signature="Test3BMethod()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="Test3BMethod" is-config="true" duration-ms="3" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3BMethod -->
+        <test-method status="PASS" signature="RealTest2()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="RealTest2" duration-ms="4" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RealTest2 -->
+        <test-method status="PASS" signature="Test6AMethod()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="Test6AMethod" is-config="true" duration-ms="0" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6AMethod -->
+        <test-method status="PASS" signature="Test8AClass()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="Test8AClass" is-config="true" duration-ms="0" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test8AClass -->
+        <test-method status="PASS" signature="Test7ATest()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="Test7ATest" is-config="true" duration-ms="0" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test7ATest -->
+        <test-method status="PASS" signature="Test9ASuite()[pri:0, instance:testNG.TestNG_allAnnotation@9629756]" name="Test9ASuite" is-config="true" duration-ms="0" started-at="2019-06-21T18:10:45Z" finished-at="2019-06-21T18:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test9ASuite -->
+      </class> <!-- testNG.TestNG_allAnnotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
